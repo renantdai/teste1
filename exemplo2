@@ -1,3 +1,7 @@
 este é o nosso exemplo2 alterado pelo glonegit
+<<<<<<< HEAD
 
 modificacao do arquivo
+=======
+mais uma edicao
+>>>>>>> 205d399f09e1a41d8bcd0058e21a8862f8c05723
